@@ -15,7 +15,9 @@ Pada Aplikasi ini telah menerapkan
 10. Localization, Dark Mode dan Light Mode dengan mempertahankan theme nya ketika on destroy. 
 11. Property Animation pada Login dan Register
 12. Login with Biometric
-
+13. Google Map
+14. Paging3 dengan Remote Mediator
+15. Unit Test
 
 ====================
 ![bintang](https://user-images.githubusercontent.com/43689759/213685901-08d8125c-b46f-4f58-997e-20c6efcd5f48.png)
