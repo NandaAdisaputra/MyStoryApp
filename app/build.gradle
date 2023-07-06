@@ -112,7 +112,10 @@ dependencies {
 //    implementation 'androidx.room:room-paging:2.5.0-rc01'
     implementation 'androidx.room:room-ktx:2.5.0-rc01'
     kapt 'androidx.room:room-compiler:2.5.0-rc01'
-
+    
+    //enkripsi
+    implementation "androidx.security:security-crypto:1.1.0-alpha04"
+    implementation 'com.scottyab:secure-preferences-lib:0.1.7'
 
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     // testing
